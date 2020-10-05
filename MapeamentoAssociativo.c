@@ -1,13 +1,13 @@
 /*
  ============================================================================
+ UNIVERSDADE FEDERAL DE OURO PRETO (UFOP)
  Name        : maquina_cache.c
- Author      : Lavínia Fonseca
+ Author      : Lavínia Fonseca  
  Version     : v.01
  Copyright   : Your copyright notice
  Description : Segundo TP de organizacaoo de computadores - Criacao da Maquina - Foco na Memoria Cache
  ============================================================================
  */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
