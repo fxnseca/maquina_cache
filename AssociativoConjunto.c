@@ -1,5 +1,6 @@
 /*
  ============================================================================
+ UNIVERSDADE FEDERAL DE OURO PRETO (UFOP)
  Name        : maquina_cache.c
  Author      : Lavínia Fonseca  
  Version     : v.01
